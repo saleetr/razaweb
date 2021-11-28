@@ -1,0 +1,1 @@
+https://mirrors.tuna.tsinghua.edu.cn/jenkins/war-stable/2.303.3/jenkins.war
